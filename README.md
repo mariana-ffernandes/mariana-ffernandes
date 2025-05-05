@@ -82,6 +82,10 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h3 align="left">🇧🇷 Sobre mim</h3>
 
 ###
@@ -148,6 +152,6 @@
 
 ###
 
-![snake gif](https://github.com/mariana-ffernandes/mariana-ffernandes/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/mariana-ffernandes/mariana-ffernandes/output/snake.svg" alt="Snake animation" />
 
 ###
