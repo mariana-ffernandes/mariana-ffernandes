@@ -148,6 +148,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mariana-ffernandes/mariana-ffernandes/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/mariana-ffernandes/mariana-ffernandes/blob/output/snake.svg)
 
 ###
