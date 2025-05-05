@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi! I'm Mariana, a junior backend developer passionate about building complete and impactful digital solutions.<br>Currently, I'm expanding my skill set to become a fullstack developer, with a long-term goal of diving into the world of UI/UX design.</p>
+<p align="left">Hi! I'm Mariana, a junior developer passionate about building complete and impactful digital solutions.<br>Currently, I'm expanding my skill set to become a fullstack developer, with a long-term goal of diving into the world of UI/UX design.</p>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<p align="left">Oi! Me chamo Mariana, sou desenvolvedora backend júnior e sou apaixonada por criar soluções digitais completas e impactantes.<br>Atualmente estou ampliando meu conhecimento para atuar como desenvolvedora fullstack, com o objetivo de seguir rumo ao UI/UX no futuro.</p>
+<p align="left">Oi! Me chamo Mariana, sou desenvolvedora júnior e sou apaixonada por criar soluções digitais completas e impactantes.<br>Atualmente estou ampliando meu conhecimento para atuar como desenvolvedora fullstack, com o objetivo de seguir rumo ao UI/UX no futuro.</p>
 
 ###
 
