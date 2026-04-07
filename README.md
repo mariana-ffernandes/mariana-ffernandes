@@ -155,9 +155,3 @@
 ###
 
 <p align="left">- Português (nativo)<br><br>- Inglês (avançado – leitura, escrita e escuta)<br><br>- Espanhol e francês (nível iniciante)</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/mariana-ffernandes/mariana-ffernandes/output/snake.svg" alt="Snake animation" />
-
-###
